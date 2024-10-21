@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "---baris ini adalah shell script yang  di jalankan---"
+echo "---baris ini adalah shell scriptnya fery yang  di jalankan---"
 python3 hallo.py
 
